@@ -4,9 +4,8 @@
 </h1>
 
 <br/>
-<br/>
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 
 
 
@@ -29,6 +28,8 @@ src="https://img.shields.io/github/followers/Devloy3?logo=github&style=for-the-b
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
+<br/>
+<br/>
 <br/>
 <br/>
 
