@@ -1,7 +1,7 @@
    
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇ola, soy &lt;Devloy3/&gt;!
+  hola, soy &lt;Devloy3/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
@@ -35,11 +35,6 @@ src="https://img.shields.io/github/followers/Devloy3?logo=github&style=for-the-b
 #
 
 #### LENGUAJES Y HERRAMIENTAS:  
-<br/>
-<code><img align=center src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img align=center src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img align=center src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img align=center src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img align=center src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
-<br/>
+
+
