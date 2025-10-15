@@ -1,7 +1,7 @@
-
+   
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, I'm &lt;Devloy3/&gt;!
+  𝐇ola, soy &lt;Devloy3/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
@@ -12,10 +12,8 @@
 
 
 
-* I’m from **Barcelona**
-* You can contact me at [eloydominguez3@gmail.com]
-* I'm learning Machine Learning
-* I'm open to collaborating on open source projects
+* Soy de Barcelona
+* Soy desarrollador Backend y actualmente estoy estudiando IA y Machine Learning
 
 <br/>
 <br/>
@@ -36,7 +34,7 @@ src="https://img.shields.io/github/followers/Devloy3?logo=github&style=for-the-b
 
 #
 
-#### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:  
+#### 𝙻ENGUAJES Y HERRAMIENTAS:  
 <br/>
 <code><img align=center height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img align=center height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
