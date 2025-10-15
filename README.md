@@ -11,8 +11,8 @@
 
 
 * Soy de Barcelona
-* Soy desarrollador Backend
-* Actualmente estoy estudiando Machine Learning
+* Soy desarrollador Backend 
+* Actualmente estoy estudiando IA 
 
 <br/>
 <br/>
