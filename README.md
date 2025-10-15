@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, I'm &lt;Devloy/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, I'm &lt;Devloy3/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
@@ -12,16 +12,16 @@
 
 
 
-*  I’m from **Barcelona**
-* ✉️  You can contact me at [eloydominguez3@gmail.com]
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on open source projects
+* I’m from **Barcelona**
+* You can contact me at [eloydominguez3@gmail.com]
+* I'm learning Machine Learning
+* I'm open to collaborating on open source projects
 
 <br/>
 <br/>
 
 
-<a href="https://www.github.com/krishnadev7" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Devloy3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Devloy3?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
 <br/>
