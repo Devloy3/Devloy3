@@ -41,7 +41,8 @@ src="https://img.shields.io/github/followers/Devloy3?logo=github&style=for-the-b
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devloy3&locale=es&layout=compact"><p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Devloy3&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="eloy"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?
+      username=Devloy3&show_icons=true&locale=es&repo=convoychat"/></p>
 
 <br/>
 
