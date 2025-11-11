@@ -40,10 +40,8 @@ src="https://img.shields.io/github/followers/Devloy3?logo=github&style=for-the-b
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devloy3&show_icons=true&theme=light&locale=en&layout=compact"alt="anii693"><p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Devloy3&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-alt="eloy"/></p>
-<p><img  allign="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devloy3&theme=solarized_dark"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devloy3&locale=es&layout=compact"><p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Devloy3&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="eloy"/></p>
 
 <br/>
 
