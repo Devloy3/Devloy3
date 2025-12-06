@@ -40,9 +40,12 @@ src="https://img.shields.io/github/followers/Devloy3?logo=github&style=for-the-b
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devloy3&locale=es&layout=compact"><p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?
-      username=Devloy3&show_icons=true&locale=es&repo=convoychat"/></p>
+ <img
+      height="150"
+      alt="languages graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devloy3&locale=es&theme=vue"
+    />
+
 
 <br/>
 
