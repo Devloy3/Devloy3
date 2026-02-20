@@ -12,12 +12,13 @@ Me enfoco en construir soluciones que sean eficientes. Actualmente explorando el
 ---
 
 ### 📈 Lo que estoy haciendo ahora
-- 🌱 Aprendiendo: Aprender Rust.
+- 🌱 Aprendiendo: Rust.
 
 ---
 
-### 📊 Lenguajes más usados
-![Top Langs](https://github-readme-stats-tau-five.vercel.app/api/top-langs/?username=Devloy3&layout=compact&theme=radical)
+### 📊 Estadisiticas
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=Devloy3&size_weight=1&count_weight=0)
+[![Anurag's GitHub stats](https://github-readme-stats.zcy.dev/api?username=Devloy3)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
