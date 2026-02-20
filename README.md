@@ -7,7 +7,7 @@ Me enfoco en construir soluciones que sean eficientes. Actualmente explorando el
 ---
 
 ### 🛠️ Mi Stack Tecnológico
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,html,css,ubuntu,matplotlib)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,html,css,ubuntu,azure)
 
 ---
 
