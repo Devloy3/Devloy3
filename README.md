@@ -1,104 +1,28 @@
-   
-<h1 align="center">
-  Hola,👋 soy Devloy3
-</h1>
+# ¡Hola! Soy Eloy 👋
 
-<br/>
+**Software Developer/System Configuration & Services** 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+Me enfoco en construir soluciones que sean eficientes. Actualmente explorando el mundo de Rust.
 
+---
 
+### 🛠️ Mi Stack Tecnológico
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,html,css,ubuntu,matplotlib)
 
-* Soy de Barcelona
-* Soy desarrollador Backend 
-* Actualmente estoy estudiando IA 
+---
 
-<br/>
-<br/>
+### 📈 Lo que estoy haciendo ahora
+- 🌱 Aprendiendo: Aprender Rust.
 
+---
 
-<a href="https://www.github.com/Devloy3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Devloy3?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
-<a href="https://es.linkedin.com/in/eloy-dominguez-rodriguez-dev">
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="mailto: eloydominguez3@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://discordapp.com/users/domloy3" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
+### 📊 Lenguajes más usados
+![Top Langs](https://github-readme-stats-tau-five.vercel.app/api/top-langs/?username=Devloy3&layout=compact&theme=radical)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+---
 
-#
-
-### Analiticas de Github
-
-<br/>
-
- <img
-      height="150"
-      alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devloy3&locale=es&theme=vue"
-    />
-
-
-<br/>
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
-
-<br/>
-
-#
-
-#### LENGUAJES:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-<br/>
-
-#
-
-#### FRAMEWORKS:
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-<br/>
-
-#
-
-#### HERRAMIENTAS:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-<br/>
-
-#
-
-#### BASE DE DATOS
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 📬 Conectemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloy-dominguez-rodriguez-dev/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FOJE%2F%2BgaSOmxSA9JasKcdg%3D%3)
 
 
 
