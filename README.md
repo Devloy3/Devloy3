@@ -1,8 +1,8 @@
 # ¡Hola! Soy Eloy 👋
 
-**Software Developer/System Configuration & Services** 
+**Software Developer** 
 
-Me enfoco en construir soluciones que sean eficientes. Actualmente explorando el mundo de Rust.
+Me enfoco en construir software que sea util y humano para la gente que trabaja dia a dia, y no en la nube. Actualmente explorando el mundo de Rust.Si teneis cualquier idea de colaboracion podeis escribirme un mensaje en linkedin o escribir a mi correo en la parte de contacto. 
 
 ---
 
